@@ -1,0 +1,1 @@
+Lệnh này so sánh những thay đổi đã được tổ chức với lần commit trước đó:
